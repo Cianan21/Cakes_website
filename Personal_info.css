@@ -1,0 +1,94 @@
+body{
+    display: block;
+    margin: 8px;
+}
+
+h2{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.container{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.name{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.number{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.address{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.city{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.zip{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.state{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.ssn{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.salary{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.submit{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    margin-left: 65px;
+}
